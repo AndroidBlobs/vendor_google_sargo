@@ -1,0 +1,7 @@
+/vendor/lib/modules/synaptics_dsx_test_reporting.ko: /vendor/lib/modules/synaptics_dsx_core.ko
+/vendor/lib/modules/lcd.ko:
+/vendor/lib/modules/synaptics_dsx_rmi_dev.ko: /vendor/lib/modules/synaptics_dsx_core.ko
+/vendor/lib/modules/synaptics_dsx_core.ko:
+/vendor/lib/modules/test_kasan.ko:
+/vendor/lib/modules/wlan.ko:
+/vendor/lib/modules/synaptics_dsx_fw_update.ko: /vendor/lib/modules/synaptics_dsx_core.ko
